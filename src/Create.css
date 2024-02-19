@@ -1,0 +1,42 @@
+.okButton{
+    margin-right: 230px;
+    margin-top: 30px;
+}
+.okButtonFull{
+    margin-right: 230px;
+    margin-top: 30px;
+    color: #fd3636;
+}
+.llabel{
+    width: 250px;
+    margin-right: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.ltextarea{
+    width: 500px;
+    height: 250px;
+}
+
+  .custom-paragraph {
+    width: 300px; /* 设置宽度（例如 300px） */
+    height: 200px; /* 设置高度（例如 200px） */
+    overflow-wrap: break-word; /* 自动折行 */
+  }
+
+.inscriptionclass{
+    margin-top: 15px;
+    margin-bottom: 0px;
+    width: 100px;
+    height: 30px;
+}  
+
+.llabeldes{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.llabeltext{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}

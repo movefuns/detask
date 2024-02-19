@@ -1,0 +1,27 @@
+.tasklistitem{
+
+    /* border: 1px solid rgb(155, 31, 31); */
+    width: 250px;
+
+}
+
+.describe{
+    width: 550px;
+    height: 300px;
+    padding-left: 20px;
+}
+
+.topDialog{
+    overflow-y: auto; /* 当内容在垂直方向上超出时显示滚动条 */  
+    height: 700px;
+}
+
+.selectname{
+    margin-left: 10px;
+}
+
+.putitemin{
+    margin-left: 10px;
+    margin-bottom: 10px;
+
+}
