@@ -1,0 +1,16 @@
+{
+    "en": {
+      "logo": "Detask",
+      "info": "Instructions",
+      "info2": "announcement",
+      "create": "New Task",
+      "buttonText": "Click Me"
+    },
+    "zh": {
+      "logo": "找活网",
+      "info": "使用说明",
+      "info2": "网站公告",
+      "create": "新建任务",
+      "buttonText": "点击我"
+    }
+}

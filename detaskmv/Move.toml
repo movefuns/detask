@@ -1,0 +1,12 @@
+[package]
+name = "detaskmv"
+version = "0.0.1"
+#published-at = "0xc762227d0faec1d60daed2973f899c8b22746bd85efbe2ed99f67f2f288fbbab"
+
+[dependencies]
+#Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework/packages/sui-framework", rev = "framework/testnet" }
+Sui = { local = "../../../sui/crates//sui-framework/packages/sui-framework"}
+
+[addresses]
+detaskmv = "0x0"
+
